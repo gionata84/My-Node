@@ -2,7 +2,7 @@
   "name": "my-node",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/gionata84/My-Node#readme",
   "dependencies": {
-    "hapi": "^17.2.0"
+    "hapi": "^16.0.3"
   }
 }
